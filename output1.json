@@ -1,0 +1,10 @@
+{
+    "SearchedFaceBoundingBox": {
+        "Width": 0.3706597089767456, 
+        "Top": 0.2455555498600006, 
+        "Left": 0.36917707324028015, 
+        "Height": 0.2777777910232544
+    }, 
+    "SearchedFaceConfidence": 99.82778930664062, 
+    "FaceMatches": []
+}
